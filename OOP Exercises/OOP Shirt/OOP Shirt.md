@@ -9,11 +9,4 @@ This Jupyter notebook is inside of a folder called 1.OOP_syntax_shirt_practice. 
 - answer.py containing answers to the exercise
 - tests.py, tests for checking your code - you can run these tests using the last code cell at the bottom of this notebook
 
-# Your Task
-The shirt_exercise.ipynb file, which you are currently looking at if you are reading this, has an exercise to help guide you through coding with an object in Python.
-
-Fill out the TODOs in each section of the Jupyter notebook. You can find a solution in the answer.py file.
-
-First, run this code cell below to load the Shirt class.
-
 
